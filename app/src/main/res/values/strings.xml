@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cradle Player</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_now_playing">Now Playing</string>
+    <string name="tab_queue">Queue</string>
+    <string name="add_folder">Add Folder</string>
+    <string name="nothing_playing">Nothing playing</string>
+    <string name="clear_queue">Clear Queue</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_album">Unknown Album</string>
+</resources>
